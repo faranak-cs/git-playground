@@ -24,3 +24,6 @@ Basic for Git
 
 - Stage specific file
   `git add file_name`
+
+- Commit local changes
+  `git commit -m "update README.md"`

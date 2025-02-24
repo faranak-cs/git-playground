@@ -27,3 +27,9 @@ Basic for Git
 
 - Commit local changes
   `git commit -m "update README.md"`
+
+- Push local changes
+  `git push`
+
+- Pull remote changes
+  `git pull`

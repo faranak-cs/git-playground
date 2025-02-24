@@ -39,3 +39,6 @@ Basic for Git
 
 - Merge changes from child branch into parent branch
   `git merge child_branch`
+
+- Create branch and checkout at the same time
+  `git checkout -b branch_name`

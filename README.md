@@ -33,3 +33,9 @@ Basic for Git
 
 - Pull remote changes
   `git pull`
+
+- Merge changes from parent to child branch
+  `git merge parent_branch`
+
+- Merge changes from child branch into parent branch
+  `git merge child_branch`
